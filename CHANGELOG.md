@@ -6,7 +6,9 @@
 
 ## Enhancements
 
-- None
+- Add UI for duping radars from OpenRadar
+  [issue](https://github.com/br1sk/brisk/issues/14)
+  [change](https://github.com/br1sk/brisk/pull/75)
 
 ## Bug Fixes
 
